@@ -1,6 +1,6 @@
 # Site settings
 title: TheDeploymentGuy
-description: 'DevOps Consultant. Passionate about Devops, BigData, Virutalization, linux, microservices'
+description: 'DevOps Consultant. Passionate about Devops, BigData, Virutalization, linux, and microservices'
 url: 'http://thedeploymentguy.com'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
@@ -9,7 +9,7 @@ baseurl: '/'
 author:
   name: 'Shailendra Kumar'
   email: emailtoshailendra@gmail.com
-  twitter_username: joshgerdes
+  twitter_username:  KumarShailend
   facebook_username: shailu.foru
   github_username:  kshailen
   linkedin_username:  unixkshailen
