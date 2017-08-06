@@ -1,8 +1,8 @@
 # Site settings
 title: TheDeploymentGuy
 description: 'TheDeploymentGuy - TechDaiy By SK - Blend of Devops and BigData'
-url: 'http://thedeploymentguy.com/'
-baseurl: '/blog/'
+url: 'http://thedeploymentguy.com'
+baseurl: '//'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
