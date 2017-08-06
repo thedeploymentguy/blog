@@ -1,6 +1,6 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+title: TheDeploymentGuy
+description: 'TheDeploymentGuy - TechDaiy By SK - Blend of Devops and BigData'
 url: 'http://joshgerdes.com/jekyll-uno'
 baseurl: '/jekyll-uno/'
 # google_analytics: 'UA-XXXXXX-X'
@@ -8,11 +8,11 @@ baseurl: '/jekyll-uno/'
 
 author:
   name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
+  email: emailtoshailendra@gmail.com
   twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  facebook_username: shailu.foru
+  github_username:  kshailen
+  linkedin_username:  unixkshailen
 
 defaults:
   -
