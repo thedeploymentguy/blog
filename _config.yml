@@ -1,7 +1,7 @@
 # Site settings
 title: TheDeploymentGuy
 description: 'TheDeploymentGuy - TechDaiy By SK - Blend of Devops and BigData'
-#url: 'http://joshgerdes.com/jekyll-uno'
+url: 'http://thedeploymentguy.com/blog'
 baseurl: '/blog/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
