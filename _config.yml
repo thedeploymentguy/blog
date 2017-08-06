@@ -2,12 +2,12 @@
 title: TheDeploymentGuy
 description: 'TheDeploymentGuy - TechDaiy By SK - Blend of Devops and BigData'
 url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno/'
+baseurl: '/jekyll-uno/#blog'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
+  name: 'Shailendra Kumar'
   email: emailtoshailendra@gmail.com
   twitter_username: joshgerdes
   facebook_username: shailu.foru
