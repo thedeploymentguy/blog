@@ -1,7 +1,6 @@
 ---
 layout: null
 ---
-
 $(document).ready(function () {
   $('a.blog-button').click(function (e) {
     if ($('.panel-cover').hasClass('panel-cover--collapsed')) return
@@ -11,7 +10,7 @@ $(document).ready(function () {
       $('.content-wrapper').addClass('animated slideInRight')
     } else {
       $('.panel-cover').css('max-width', currentWidth)
-      $('.panel-cover').animate({'max-width': '530px', 'width': '30%'}, 300, swing = 'swing', function () {})
+      $('.panel-cover').animate({'max-width': '530px', 'width': '35%'}, 400, swing = 'swing', function () {})
     }
   })
 
@@ -37,4 +36,3 @@ $(document).ready(function () {
   })
 
 })
-
