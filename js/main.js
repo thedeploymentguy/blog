@@ -1,7 +1,5 @@
 ---
 layout: null
-sitemap:
-  exclude: 'yes'
 ---
 
 $(document).ready(function () {
