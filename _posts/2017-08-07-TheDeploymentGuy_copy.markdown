@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to TheDeploymentGuy!-copy"
+title:  "Welcome to TheDeploymentGuy Copy"
 date:   2017-08-07 04:52:00
 categories: [Guide]
 tags: [SK]
