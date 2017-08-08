@@ -46,4 +46,4 @@ bash run_command_for_seconds_exits.sh "hdfs dfs -put 20170207020*.gz /data/TEST_
 bash run_command_for_seconds_exits.sh “hdfs dfs -put 20170207020*.gz /data/TEST_1/” 50
 ```
 
-You can download [run_command_for_seconds_exits.sh](https://github.com/thedeploymentguy/scriptsby-SK/blob/master/run_command_for_seconds_exits.sh)
+You can download this script [run_command_for_seconds_exits.sh](https://github.com/thedeploymentguy/scriptsby-SK/blob/master/run_command_for_seconds_exits.sh)
