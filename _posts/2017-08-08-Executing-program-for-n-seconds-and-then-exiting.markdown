@@ -31,14 +31,16 @@ fi
 ```
 
 If you save this into a file called run_command_for_seconds_exits.sh you use it with:
-```sh
+
+``` sh
 bash run_command_for_seconds_exits.sh "hdfs dfs -put 20170207020*.gz /data/TEST_1/" 50
 
 #The above will run the command “hdfs dfs -put 20170207020*.gz /data/TEST_1/” 50″  for 50 seconds, then it will exit.
 ```
 
-###Examples:
-```sh
+### Example
+
+``` sh
 [admin@GVSGLBNN-2 TEST]# bash /data/scripts/run_command_for_seconds_exits.sh “mv /data/HdfsDownloader/retention/20170315/20170315*.gz . ” 60
 
 bash run_command_for_seconds_exits.sh “hdfs dfs -put 20170207020*.gz /data/TEST_1/” 50
