@@ -2,7 +2,7 @@ encoding: utf-8
 
 # Site settings
 title: The Deployment Guy
-description: 'Co-Founder of Veritech Solutions. Passionate about software architecture, domain driven design and DevOps. Loves programming in .NET, JS and Go'
+description: 'DevOps Consultant. Passionate about Devops, BigData, Virutalization, linux, and microservices. Loves programming in bash and Python. Always love to discuss about KVM, Openstack, vagrant, coreOS, Docker, Containers etc'
 url: 'http://127.0.0.1:4000'
 baseurl: '/'
 #google_analytics: 'UA-21524511-1'
