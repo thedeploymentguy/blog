@@ -1,14 +1,25 @@
 ---
-layout: default
+layout: page
+title: "404 - File Not Found"
+permalink: /404.html
+comments: false
+footer: true
 ---
-<h2>Tags:</h2>
+
+<p>
+Whoops, looks like that page doesn't exist.
+</p>
+
+<p>
+Seems some link is broken. Please visit the <a href="http://thedeploymentguy.com/#blog" title="Blog">home page</a> to find the content you are looking for.
+</p>
+
 <div class="tags"> 
 {% for tagitem in site.tags  %} 
-  <a href="#{{ tagitem[0] }}">{{  tagitem[0] }}</a>
+  <a href="#{{  tagitem[0] }}">{{  tagitem[0] }}</a>
 {% endfor %}
 </div>
 
-<!-- iterate through all tags on the site --> 
 {% for tagitem in site.tags %} 
   <!-- for each tag, create an anchor by using the tag name as an id --> 
   <div id="{{ tagitem[0] }}">  

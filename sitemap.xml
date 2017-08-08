@@ -53,4 +53,3 @@ sitemap:
     </url>
     {% endunless %}
   {% endfor %}
-</urlset>
