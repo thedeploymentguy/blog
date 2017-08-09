@@ -1,6 +1,6 @@
 # Site settings
 title: TheDeploymentGuy
-description: 'DevOps Consultant. Passionate about Devops, BigData, Virutalization, linux, and microservices. I always love to discuss about KVM, Openstack, vagrant, coreOS, Docker, Containers,Python,Shell scripting, etc'
+description: 'DevOps Consultant. Passionate about Devops, BigData, Virutalization, linux, and microservices. I always love to discuss about KVM, Openstack, vagrant, coreOS, Docker, Containers, Python, Shell scripting, etc'
 url: 'http://thedeploymentguy.com'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
