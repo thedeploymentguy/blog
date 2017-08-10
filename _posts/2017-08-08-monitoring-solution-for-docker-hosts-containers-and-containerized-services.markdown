@@ -114,7 +114,7 @@ I've set the `storage.local.memory-chunks` value to 100000, if you monitor 10 co
 I've setup three alerts configuration files:
 
 * Monitoring services alerts [targets.rules](https://github.com/thedeploymentguy/docker-monitoring/blob/master/prometheus/targets.rules)
-* Docker Host alerts [hosts.rules](https://github.com/thedeploymentguy/docker-monitoring/blob/master/prometheus/hosts.rules)
+* Docker Host alerts [hosts.rules](https://github.com/thedeploymentguy/docker-monitoring/blob/master/prometheus/host.rules)
 * Docker Containers alerts [containers.rules](https://github.com/thedeploymentguy/docker-monitoring/blob/master/prometheus/containers.rules)
 
 You can modify the alert rules and reload them by making a HTTP POST call to Prometheus:
