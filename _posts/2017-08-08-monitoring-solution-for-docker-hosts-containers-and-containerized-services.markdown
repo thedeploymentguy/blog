@@ -33,6 +33,8 @@ Clone [docker-monitoring](https://github.com/thedeploymentguy/docker-monitoring)
 * `$ cd docker-monitoring`
 * `$ docker-compose up -d`
 
+If ***docker-compose*** is not available on your node the you can install it by following this link [Install docker-compose](http://thedeploymentguy.com/2017/08/09/Installing-docker-compose/)
+
 Containers:
 
 * Prometheus (metrics database) `http://<host-ip>:9090`
