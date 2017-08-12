@@ -3,7 +3,7 @@ title: TheDeploymentGuy
 description: 'DevOps Consultant. Passionate about Devops, BigData, Virutalization, linux, and microservices. I always love to discuss about KVM, Openstack, vagrant, coreOS, Docker, Containers, Python, Shell scripting, etc'
 url: 'http://thedeploymentguy.com'
 baseurl: '/'
-# google_analytics: 'UA-XXXXXX-X'
+google_analytics: 'UA-104483098-1'
 disqus_shortname: 'thedeploymentguy'
 
 author:

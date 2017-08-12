@@ -5,8 +5,8 @@ title: The Deployment Guy
 description: 'DevOps Consultant. Passionate about Devops, BigData, Virutalization, linux, and microservices. Loves programming in bash and Python. Always love to discuss about KVM, Openstack, vagrant, coreOS, Docker, Containers etc'
 url: 'http://127.0.0.1:4000'
 baseurl: '/'
-#google_analytics: 'UA-21524511-1'
-#disqus_shortname: 'stefanprodan'
+google_analytics: 'UA-104483098-1'
+disqus_shortname: 'thedeploymentguy'
 
 author:
   name: 'Shailendra Kumar'
