@@ -4,7 +4,7 @@ description: 'DevOps Consultant. Passionate about Devops, BigData, Virutalizatio
 url: 'http://thedeploymentguy.com'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+disqus_shortname: 'thedeploymentguy'
 
 author:
   name: 'Shailendra Kumar'
