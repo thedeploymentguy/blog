@@ -6,7 +6,7 @@ categories: [concepts]
 tags: [Ansible]
 ---
 
-Ansible is an automation engine, similar to Chef or Puppet, that can be used to ensure deployment and configuration consistency across many servers, and keep servers and applications up-to-date. Though, unlike some other tools, Ansible does not require a client component/agent. Following are the steps to install Ansible on Centos7
+***Ansible*** is an automation engine, similar to Chef or Puppet, that can be used to ensure deployment and configuration consistency across many servers, and keep servers and applications up-to-date. Though, unlike some other tools, Ansible does not require a client component/agent. Following are the steps to install Ansible on Centos7
 
 ### Add the EPEL Repository
 
