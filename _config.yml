@@ -8,7 +8,7 @@ disqus_shortname: 'thedeploymentguy'
 
 author:
   name: 'Shailendra Kumar'
-  email: hello@thedeploymentguy.com
+  email: emailtoshailendra@gmail.com
   twitter_username:  KumarShailend
   facebook_username: thedeploymentguy
   github_username:  thedeploymentguy
@@ -17,7 +17,7 @@ author:
 defaults:
   -
     scope:
-      path: ''
+      path: '/'
       type: 'posts'
     values:
         layout: 'post'
