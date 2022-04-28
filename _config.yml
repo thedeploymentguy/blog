@@ -1,7 +1,7 @@
 # Site settings
 title: TheDeploymentGuy
 description: 'DevOps Consultant. Passionate about Devops, BigData, Virutalization, linux, and microservices. I always love to discuss about KVM, Openstack, vagrant, coreOS, Docker, Containers, Python, Shell scripting, etc'
-url: 'https://thedeploymentguy.github.io/blog/'
+url: 'https://thedeploymentguy.github.io/blog'
 baseurl: '/'
 google_analytics: 'UA-104483098-1'
 disqus_shortname: 'thedeploymentguy'
